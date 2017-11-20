@@ -6,4 +6,4 @@
 
 ## Documentation and other useful information 
 
-	1. d3js.org  -  https://github.com/d3/d3/wiki
+	1. d3js.org  -  [https://github.com/d3/d3/wiki](https://github.com/d3/d3/wiki)
